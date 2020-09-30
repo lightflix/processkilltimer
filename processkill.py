@@ -8,7 +8,7 @@ import time
 import psutil
 
 #kill signal used
-KILL_SIGNAL = 2
+KILL_SIGNAL = 9
 
 #class for color coding printed text ANSI
 class bcolors:
